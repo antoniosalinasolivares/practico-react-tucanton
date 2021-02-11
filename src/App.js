@@ -6,7 +6,13 @@ import {ModalContext} from './ModalContext'
 import {ModalVisualizer} from './Components/ModalProperty'
 
 function App() {
-  const [modalProperty, setModalProperty] = useState({})
+  const [modalProperty, setModalProperty] = useState({
+    address:{
+      street:'',
+      number_ext:'',
+      number_int:''
+    }
+  })
   const [modalVisibility, setModalVisibility] = useState(false)
   return (
     <>
