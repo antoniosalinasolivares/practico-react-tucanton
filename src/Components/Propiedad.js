@@ -34,6 +34,7 @@ export const Propiedad = ({data}) => {
             </div>
             <div className='text-right container'>
               <button className="btn btn-success mt-3" onClick={()=>{
+                  setModalProperty(data)
                   setModalVisibility(prev => !prev)
               }
               }>Ver propiedad</button>
