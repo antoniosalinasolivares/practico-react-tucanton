@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/practico-react-tucanton/static/css/main.642f07d3.chunk.css",
+    "main.js": "/practico-react-tucanton/static/js/main.158203dd.chunk.js",
+    "main.js.map": "/practico-react-tucanton/static/js/main.158203dd.chunk.js.map",
+    "runtime-main.js": "/practico-react-tucanton/static/js/runtime-main.5f96dd58.js",
+    "runtime-main.js.map": "/practico-react-tucanton/static/js/runtime-main.5f96dd58.js.map",
+    "static/css/2.150d169a.chunk.css": "/practico-react-tucanton/static/css/2.150d169a.chunk.css",
+    "static/js/2.3f95e640.chunk.js": "/practico-react-tucanton/static/js/2.3f95e640.chunk.js",
+    "static/js/2.3f95e640.chunk.js.map": "/practico-react-tucanton/static/js/2.3f95e640.chunk.js.map",
+    "index.html": "/practico-react-tucanton/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/practico-react-tucanton/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.642f07d3.chunk.css.map": "/practico-react-tucanton/static/css/main.642f07d3.chunk.css.map",
+    "static/js/2.3f95e640.chunk.js.LICENSE.txt": "/practico-react-tucanton/static/js/2.3f95e640.chunk.js.LICENSE.txt",
+    "static/media/logo.ae5a7ae0.svg": "/practico-react-tucanton/static/media/logo.ae5a7ae0.svg",
+    "static/media/picture.26afebb9.png": "/practico-react-tucanton/static/media/picture.26afebb9.png",
+    "static/media/picture2.bfac6391.jpg": "/practico-react-tucanton/static/media/picture2.bfac6391.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f96dd58.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.3f95e640.chunk.js",
+    "static/css/main.642f07d3.chunk.css",
+    "static/js/main.158203dd.chunk.js"
+  ]
+}
