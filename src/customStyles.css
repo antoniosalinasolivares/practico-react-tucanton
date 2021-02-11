@@ -1,0 +1,44 @@
+/* Container holding the image and the text */
+.picContainer {
+  position: relative;
+  text-align: center;
+}
+
+/* Bottom left text */
+.bottom-left {
+  position: absolute;
+  top: 0px;
+  left: 15px;
+  color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+  background: linear-gradient(90deg, rgba(42,221,28,1) 35%, rgba(255,255,255,0) 100%);
+}
+
+/* Top left text */
+.top-left {
+  position: absolute;
+  left: 16px;
+}
+
+/* Top right text */
+.top-right {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+}
+
+/* Bottom right text */
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 16px;
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
